@@ -4,32 +4,32 @@
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9830f317336c4d2081d58a257755d4cf:7dd212647340febf93fb210ec38a0e7c
 #KODIPROP:inputstream.adaptive.common_headers=Origin=https://watch.foxtel.com.au&Referer=https://watch.foxtel.com.au/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775306079~hmac%3D78edb0e96ec1b3b7ad795d0750acd50efad4b809bea6c7299cc9f3f6deb31df2
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775320479~hmac%3D0aca779a3fe94b10228622e6f1b45b7be25064438b894a99faa1f1d0017c9a74
 
 #EXTINF:-1, Fox Sports 505
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bcb4abee45c64153a4bcdfc0fac62d1f:c97bdfe55c4f3b1379eed1345a2b1141
 #KODIPROP:inputstream.adaptive.common_headers=Origin=https://watch.foxtel.com.au&Referer=https://watch.foxtel.com.au/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel119/channel119_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775306080~hmac%3D8b43fae950215de4cfb00251e7fa69ec62b38be0cab669e0a0e7ecdf806b58b1
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel119/channel119_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775320480~hmac%3D91f0b96153b6b419be53d56a43c8a8a7a06f88b9940f06ce9826bdd96499f8dc
 
 #EXTINF:-1, Fox Sports 506
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|203086800268416c81675b6836a13e62:29864765958e407baab2c46086b71d71
 #KODIPROP:inputstream.adaptive.common_headers=Origin=https://watch.foxtel.com.au&Referer=https://watch.foxtel.com.au/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel120/channel120_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775306080~hmac%3Dbdb3701907396cc7d093666feaa1ef5c156e1c8ad1fb1eb3ed5f3a68e1b1206e
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel120/channel120_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775320480~hmac%3D2124ba27b6240c2139c99c9649f542be834232e89894cce79328f50f04296c2a
 
 #EXTINF:-1, Fox Sports More
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cae3e3423533485b846024ecfb4f0959:ad634119d3a36c9b10ed9b8d855aa4d6
 #KODIPROP:inputstream.adaptive.common_headers=Origin=https://watch.foxtel.com.au&Referer=https://watch.foxtel.com.au/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel098/channel098_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775306081~hmac%3D04bb48c3a0e6a835f69f012b803f9f8d301889f1e2fc9b85f01ef0a6efa0d228
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel098/channel098_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775320481~hmac%3D3662748520542ac53b0dacb001d81f3c2b83925be422acebfd39956a4a550c27
 
 #EXTINF:-1, ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f35e30850ab84bc39c2ea17163523d5e:2ec2b7e43d3ed7cd3e1a252626704433
 #KODIPROP:inputstream.adaptive.common_headers=Origin=https://watch.foxtel.com.au&Referer=https://watch.foxtel.com.au/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://foxteldashlive01.akamaized.net/live/channel074/channel074_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775306081~hmac%3Da98587fd05663e65785d39a49125324d234c81b441e381c6f3c9152031ed380b
+https://foxteldashlive01.akamaized.net/live/channel074/channel074_mcs.isml/playlist_high.mpd?hdnts=exp%3D1775320481~hmac%3Df48adf535c701a956bb98a360ad5514d494b6e31c32ae4d6d2d3ee967c8fabc3
